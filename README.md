@@ -1,10 +1,32 @@
-# Codemotion2011
-Le mie slide di Codemotion 2013 - Twitter programming - Roma 05/03/2011
+# Codemotion 2011 — Twitter Programming
 
-Twitter � la pi� grossa piattaforma di microblogging del mondo
+Slide del talk **"Twitter Programming"** presentato al [Codemotion](https://www.codemotion.it/) — Roma, 5 marzo 2011.
 
-Vedremo come � possibile programmarla in Java e PHP
+## Descrizione
 
-Se non sapete cosa vuol dire OAuth, REST API, Search API e Streaming API, se CURL vi sembra il nome di un partito politico, se la pigrizia governa la vostra vita e non vi muovete senza un SDK dedicato ad ogni piattaforma che programmate, allora siete nel posto giusto.
+Twitter è la più grande piattaforma di microblogging al mondo. In questo talk viene mostrato come è possibile programmarla in **Java** e **PHP**, partendo da zero e arrivando a un'applicazione funzionante in soli 40 minuti.
 
-Da 0 a 100 in 40 minuti, allacciate le cinture ;)
+Argomenti trattati:
+
+- **OAuth** — autenticazione e autorizzazione
+- **REST API** — interfaccia principale per leggere e scrivere dati
+- **Search API** — ricerca di tweet in tempo reale
+- **Streaming API** — ricezione di tweet in flusso continuo
+- **cURL** — chiamate HTTP da riga di comando e da codice
+- **SDK** — librerie di terze parti per Java e PHP
+
+## Contenuto del repository
+
+| File | Descrizione |
+|------|-------------|
+| `codemotion_twitter_programming.pdf` | Slide in formato PDF |
+| `codemotion_twitter_programming.odp` | Slide in formato OpenDocument Presentation |
+| `template slide relatori/` | Template ufficiale Codemotion fornito agli speaker |
+
+## Autore
+
+**Matteo Baccan** — [matteo@baccan.it](mailto:matteo@baccan.it)
+
+## Licenza
+
+Questo progetto è distribuito sotto licenza [GNU General Public License v3.0](LICENSE).
